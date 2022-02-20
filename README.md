@@ -1,2 +1,2 @@
 # codial
-Social media website learning bt own
+Social media website learning by own
